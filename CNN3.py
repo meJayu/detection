@@ -15,7 +15,7 @@ import time
 from datetime import timedelta
 import math
 import scipy.io as sio
-import os
+
 
 # Convolutional Layer parameters
 filter_size = 3          # all Convolution filters are 3 x 3 pixels.
